@@ -5,7 +5,10 @@ Frustrated by the non-availability of slots for skill tests in Minnesota, I crea
 Demo Video 🎥
 Check out this video to see the bot in action! 📹👇
 
-https://github.com/mohitydv09/dl-availability-notifier/assets/101336175/a6c69ded-bf0d-4205-9831-bb8d1759958c
+<video width="300" height="200" controls>
+  <source src="[Working Video](https://github.com/mohitydv09/dl-availability-notifier/assets/101336175/a6c69ded-bf0d-4205-9831-bb8d1759958c)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Email Notification Screenshot 📸
 Ah, at long last! 🎉 The moment I've been waiting for has arrived! 🌟 After what felt like an eternity of checking and waiting, the notification appeared like a beacon of hope in my inbox. 📬✨ It's like finding a rare treasure in a sea of mundane emails! 🏆💼 Finally, the test slot is within reach, and I can almost taste victory! 🥳🙌
