@@ -3,11 +3,9 @@
 Frustrated by the non-availability of slots for skill tests in Minnesota, I created this bot to notify me when there is availability of slots. 🚀✨
 
 Demo Video 🎥
-Check out this video to see the bot in action! 📹👇
 
 https://github.com/mohitydv09/dl-availability-notifier/assets/101336175/336a0746-9128-412c-9f79-369b24846cf4
 
-Email Notification Screenshot 📸
 
 Finallyyyyy🌟🌟🌟
 
