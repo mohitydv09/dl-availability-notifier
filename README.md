@@ -4,9 +4,7 @@ Frustrated by the non-availability of slots for skill tests in Minnesota, I crea
 
 Scrapper in Action:
 
-
-https://github.com/user-attachments/assets/a0e1bcf4-4df2-4a03-953e-6ede44afd871
-
+https://github.com/user-attachments/assets/be5f06bb-f19d-4eab-96a6-7be5510b1cba
 
 Finallyyyyy🌟🌟🌟
 
